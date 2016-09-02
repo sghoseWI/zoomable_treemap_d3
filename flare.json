@@ -1,0 +1,101 @@
+{
+ "name": "Your Taxable Income",
+ "children": [
+  {
+   "name": "Health Care",
+   "children": [
+    {"name": "Medicaid and Children's Health Insurance Program (CHIP)", "size": 12.31},
+    {"name": "Medicare doctor payments and prescription drug payments", "size": 11.27},
+    {"name": "Additional health care activities", "size": 1.61},
+    {"name": "Health research and food safety", "size": 1.38},
+    {"name": "Disease control and public health services", "size": ".91"}
+   ]
+ },
+  {
+   "name": "National Defense",
+   "children": [
+    {"name": "Ongoing operations, equipment, and supplies", "size": 9.69},
+    {"name": "Research, development, weapons, and construction", "size": 7.22},
+    {"name": "Military personnel salaries and benefits", "size": 5.95},
+    {"name": "Atomic energy defense activities", "size": ".69"},
+    {"name": "Defense-related FBI activities and additional national defense", "size": ".36"}
+  ]
+},
+{
+ "name": "Job and Family Security",
+ "children": [
+  {"name": "Federal military and civilian employee retirement and disability", "size": 5.33},
+  {"name": "Food and nutrition assistance", "size": 4.08},
+  {"name": "Earned income and child tax credits", "size": 3.23},
+  {"name": "Supplemental Security Income", "size": 2.19},
+  {"name": "Housing assistance", "size": 1.89},
+  {"name": "Temporary Assistance for Needy Families", "size": ".67"},
+  {"name": "Child care, foster care, and adoption support", "size": ".63"},
+  {"name": "Railroad retirement and additional income security", "size": ".16"}
+]
+},
+{
+ "name": "Veterans Benefits",
+ "children": [
+  {"name": "Income and housing support", "size": 2.89},
+  {"name": "Health care", "size": 2.23},
+  {"name": "Education, training, and additional veterans benefits", "size": ".81"}
+]
+},
+{
+ "name": "Education and Job Training",
+ "children": [
+  {"name": "Elementary, secondary, and vocational education", "size": 1.62},
+  {"name": "Employment training for people with disabilities and additional education and job services", "size": ".9"},
+  {"name": "Student financial aid for college", "size": ".8"},
+  {"name": "Job training and employment services", "size": ".28"}
+]
+},
+{
+ "name": "International Affairs",
+ "children": [
+  {"name": "Development and humanitarian assistance", "size": ".93"},
+  {"name": "Foreign affairs, embassies, and additional international affairs", "size": ".47"},
+  {"name": "Security assistance", "size": ".45"}
+
+]
+},
+{
+ "name": "Natural Resources, Energy, and Environment",
+ "children": [
+  {"name": "Pollution control and other natural resources, energy, and environment", "size": ".75"},
+  {"name": "Water and land management", "size": ".7"},
+  {"name": "Energy supply and conservation", "size": ".2"}
+
+]
+},
+{
+ "name": "Science, Space, and Technology Programs",
+ "children": [
+  {"name": "NASA", "size": ".66"},
+  {"name": "National Science Foundation, additional science research, and laboratories", "size": ".48"}
+
+]
+},
+{
+ "name": "Agriculture", "size": ".97"
+ },
+{
+ "name": "Community, Area, and Regional Development", "size": ".43"
+ },
+ {
+  "name": "Response to Natural Disasters", "size": ".39"
+  },
+  {
+   "name": "Additional Government Programs","size": 3.42
+
+},
+{
+ "name": "Immigration, Law Enforcement, and Administration of Justice", "size": 2
+ },
+ {
+  "name": "Net Interest", "size": 9.07
+  }
+
+ ]
+ }
